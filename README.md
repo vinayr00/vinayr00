@@ -1,5 +1,6 @@
-<h1 align="center">Hi, I'm Vinay 👋</h1>
-<h3 align="center">Full-Stack Developer · AI/ML Enthusiast · Building things that scale</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:D4AF37&height=200&section=header&text=Hi,%20I'm%20Vinay&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" alt="Header banner" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+AI-powered+full-stack+apps;React+%2B+Flask+%2F+Node.js;Exploring+Computer+Vision+%26+ML+Pipelines;Always+optimizing%2C+never+settling" alt="Typing SVG" />
@@ -110,9 +111,18 @@
 </p>
 
 <!--
-  ↑ This snake animates your contribution graph and eats your own commit squares 🐍
-  It requires a one-time GitHub Actions setup — see the note below the README for steps.
-  Until that's set up, this line will just show a broken image — remove it if you don't want to configure it.
+  ↑ Snake: animates your contribution graph, eats your own commit squares 🐍
+  Needs the snake.yml GitHub Actions workflow — see setup steps below.
+-->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vinayr00/vinayr00/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
+</p>
+
+<!--
+  ↑ 3D skyline: turns your commit graph into a rotating isometric city
+  Needs the profile-3d-contrib.yml GitHub Actions workflow — see setup steps below.
+  Only keep ONE of the two (snake or 3D) if you want a cleaner profile — having both can feel busy.
 -->
 
 ---
@@ -128,4 +138,7 @@
   <a href="mailto:vinayraavi143@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
-<!-- Proudly enhanced with Claude -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:1a1a1a&height=120&section=footer" alt="Footer banner" />
+</p>
+
