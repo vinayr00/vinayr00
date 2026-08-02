@@ -25,6 +25,15 @@
 
 ### 🚀 Featured Projects
 
+<p align="center">
+  <a href="https://github.com/vinayr00/GroNest">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=vinayr00&repo=GroNest&theme=dark&hide_border=true" height="150"/>
+  </a>
+  <a href="https://github.com/vinayr00/FairExplainAI">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=vinayr00&repo=FairExplainAI&theme=dark&hide_border=true" height="150"/>
+  </a>
+</p>
+
 <table>
   <tr>
     <td width="50%" valign="top">
