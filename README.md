@@ -89,12 +89,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vinayr00&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayr00&theme=dark&hide_border=true&layout=compact" height="165" alt="Top languages"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=vinayr00&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" alt="GitHub stats"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vinayr00&theme=dark&hide_border=true&layout=compact" height="165" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vinayr00&theme=dark&hide_border=true" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=vinayr00&theme=dark&hide_border=true" alt="GitHub streak"/>
 </p>
 
 <p align="center">
