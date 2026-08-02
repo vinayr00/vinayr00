@@ -103,6 +103,20 @@
 
 ---
 
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vinayr00/vinayr00/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<!--
+  ↑ This snake animates your contribution graph and eats your own commit squares 🐍
+  It requires a one-time GitHub Actions setup — see the note below the README for steps.
+  Until that's set up, this line will just show a broken image — remove it if you don't want to configure it.
+-->
+
+---
+
 ### 🌐 Connect With Me
 
 <p align="center">
