@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=D4AF37&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=vinayr00&label=Profile%20Views&color=D4AF37&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -89,16 +89,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=dark&hide_border=true&layout=compact" height="165" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vinayr00&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayr00&theme=dark&hide_border=true&layout=compact" height="165" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=YOUR_USERNAME&theme=dark&hide_border=true" alt="GitHub streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vinayr00&theme=dark&hide_border=true" alt="GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=vinayr00&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies"/>
 </p>
 
 ---
