@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=vinayr00&label=Profile%20Views&color=D4AF37&style=flat" alt="Profile views" />
 </p>
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a1a,100:D4AF37&height=4&section=header" width="100%"/></p>
 
 ### 💫 About Me
 
@@ -21,30 +21,26 @@
 - 💬 **Ask me about** — Python, Full-Stack Development, React, Flask, REST APIs, ML basics, DBMS, and Git/GitHub workflows
 - ⚡ **Fun fact** — I enjoy turning complex problems into simple, efficient code — I never stop optimizing once it works
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a1a,100:D4AF37&height=4&section=header" width="100%"/></p>
 
 ### 🚀 Featured Projects
 
-<!-- Swap these placeholders for your real repos — pin the matching ones on your profile too -->
+<p align="center">
+  <a href="https://github.com/vinayr00/GroNest">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=vinayr00&repo=GroNest&theme=dark&hide_border=true" height="150"/>
+  </a>
+  <a href="https://github.com/vinayr00/FairExplainAI">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=vinayr00&repo=FairExplainAI&theme=dark&hide_border=true" height="150"/>
+  </a>
+</p>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4>🔹 Project Name One</h4>
-      One-line description of what it does and the problem it solves.<br/><br/>
-      <b>Stack:</b> React · Node.js · MongoDB<br/>
-      <a href="#">Live Demo</a> · <a href="#">Repo</a>
-    </td>
-    <td width="50%">
-      <h4>🔹 Project Name Two</h4>
-      One-line description of what it does and the problem it solves.<br/><br/>
-      <b>Stack:</b> Python · Flask · TensorFlow<br/>
-      <a href="#">Live Demo</a> · <a href="#">Repo</a>
-    </td>
-  </tr>
-</table>
+<!--
+  ↑ These cards auto-pull your repo's live description, language, and star/fork count from GitHub
+  — no manual updating needed. Also pin both repos on your profile page itself (Customize your pins)
+  so they show up in the pinned-repos grid too, not just here.
+-->
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a1a,100:D4AF37&height=4&section=header" width="100%"/></p>
 
 ### 🛠️ Tech Stack
 
@@ -85,7 +81,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a1a,100:D4AF37&height=4&section=header" width="100%"/></p>
 
 ### 📊 GitHub Stats
 
@@ -102,9 +98,20 @@
   <img src="https://github-profile-trophy.vercel.app/?username=vinayr00&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies"/>
 </p>
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a1a,100:D4AF37&height=4&section=header" width="100%"/></p>
 
 ### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vinayr00/vinayr00/main/isocalendar.svg" alt="Isometric contribution calendar" />
+</p>
+
+<!--
+  ↑ Isometric 3D contribution calendar, powered by lowlighter/metrics (16.9k★, actively maintained)
+  Needs the metrics-isocalendar.yml GitHub Actions workflow — see setup steps below.
+  This replaces the earlier yoshi389111 3D action, which relies on a fragile custom branch-push
+  step that's a common source of silent failures. This version is simpler and more reliable.
+-->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/vinayr00/vinayr00/output/github-contribution-grid-snake.svg" alt="Snake animation" />
@@ -112,20 +119,11 @@
 
 <!--
   ↑ Snake: animates your contribution graph, eats your own commit squares 🐍
-  Needs the snake.yml GitHub Actions workflow — see setup steps below.
+  Needs the snake.yml GitHub Actions workflow.
+  Consider keeping only ONE of isocalendar / snake for a cleaner profile — both together can feel busy.
 -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vinayr00/vinayr00/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar" />
-</p>
-
-<!--
-  ↑ 3D skyline: turns your commit graph into a rotating isometric city
-  Needs the profile-3d-contrib.yml GitHub Actions workflow — see setup steps below.
-  Only keep ONE of the two (snake or 3D) if you want a cleaner profile — having both can feel busy.
--->
-
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a1a,100:D4AF37&height=4&section=header" width="100%"/></p>
 
 ### 🌐 Connect With Me
 
