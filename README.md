@@ -34,23 +34,6 @@
   </a>
 </p>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌱 GroNest</h4>
-      Full-stack grocery e-commerce app where users browse categorized fresh groceries, manage a live cart, and track orders through a real delivery pipeline (Preparing → Out for Delivery → Delivered). Built with a polished UX layer — animated intro/outro transitions, page-fade animations, toast notifications, and a stats-driven profile dashboard — on a lightweight Node/Express backend with JSON-based storage (no database needed).<br/><br/>
-      <b>Stack:</b> React 18 · Vite · React Router v6 · Node.js · Express 5 · Context API<br/>
-      <b>Repo:</b> <a href="https://github.com/vinayr00/GroNest">github.com/vinayr00/GroNest</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚖️ FairExplainAI</h4>
-      End-to-end ML fairness framework auditing bias in COMPAS recidivism prediction. Runs an 8-stage pipeline — baseline reproduction, target-leakage removal, six-model benchmarking (Random Forest, XGBoost, LightGBM, CatBoost & more), Fairlearn post-processing mitigation, and SHAP/DiCE explainability — ending in a multi-criteria model recommendation engine scored on accuracy, fairness, and efficiency.<br/><br/>
-      <b>Stack:</b> Python · scikit-learn · XGBoost · LightGBM · CatBoost · Fairlearn · SHAP · DiCE · Streamlit<br/>
-      <b>Repo:</b> <a href="https://github.com/vinayr00/FairExplainAI">github.com/vinayr00/FairExplainAI</a>
-    </td>
-  </tr>
-</table>
-
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a1a,100:D4AF37&height=4&section=header" width="100%"/></p>
 
 ### 🛠️ Tech Stack
@@ -148,3 +131,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:1a1a1a&height=120&section=footer" alt="Footer banner" />
 </p>
 
+<!-- Proudly enhanced with Claude -->
