@@ -25,21 +25,6 @@
 
 ### 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/vinayr00/GroNest">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=vinayr00&repo=GroNest&theme=dark&hide_border=true" height="150"/>
-  </a>
-  <a href="https://github.com/vinayr00/FairExplainAI">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=vinayr00&repo=FairExplainAI&theme=dark&hide_border=true" height="150"/>
-  </a>
-</p>
-
-<!--
-  ↑ These cards auto-pull your repo's live description, language, and star/fork count from GitHub
-  — no manual updating needed. Also pin both repos on your profile page itself (Customize your pins)
-  so they show up in the pinned-repos grid too, not just here.
--->
-
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -154,3 +139,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:1a1a1a&height=120&section=footer" alt="Footer banner" />
 </p>
 
+<!-- Proudly enhanced with Claude -->
