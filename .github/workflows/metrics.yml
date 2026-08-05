@@ -23,18 +23,18 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Isometric Contribution Calendar
-        uses: lowlighter/metrics@v3
+        uses: lowlighter/metrics@latest
         with:
           filename: isocalendar.svg
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
       - name: Generate Overview Metrics
-        uses: lowlighter/metrics@v3
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.svg
-          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories
           config_timezone: Asia/Kolkata
