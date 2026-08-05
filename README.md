@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=D4AF37&center=true&vCenter=true&width=750&lines=Building+Scalable+Full-Stack+Applications;Engineering+AI-Powered+%26+Computer+Vision+Solutions;React+•+Node.js+•+Python+•+AWS+•+PyTorch;Transforming+Ideas+into+High-Impact+Software" alt="Typing Banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=D4AF37&center=true&vCenter=true&width=750&lines=Building+Scalable+Full-Stack+Applications;Engineering+AI-Powered+and+Computer+Vision+Solutions;React+-+Node.js+-+Python+-+AWS+-+PyTorch;Transforming+Ideas+into+High-Impact+Software" alt="Typing Banner"/>
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@ My expertise spans modern web architectures, deep learning model integration, co
 
 <p align="center">
   <a href="https://github.com/vinayr00/GroNest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinayr00&repo=GroNest&bg_color=0F0F0F&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&show_owner=true" alt="GroNest Repository Card"/>
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin?username=vinayr00&repo=GroNest&bg_color=0F0F0F&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&show_owner=true" alt="GroNest Repository Card"/>
   </a>
 </p>
 
@@ -89,7 +89,7 @@ My expertise spans modern web architectures, deep learning model integration, co
 
 <p align="center">
   <a href="https://github.com/vinayr00/FairExplainAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinayr00&repo=FairExplainAI&bg_color=0F0F0F&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&show_owner=true" alt="FairExplainAI Repository Card"/>
+    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin?username=vinayr00&repo=FairExplainAI&bg_color=0F0F0F&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&show_owner=true" alt="FairExplainAI Repository Card"/>
   </a>
 </p>
 
@@ -156,8 +156,8 @@ My expertise spans modern web architectures, deep learning model integration, co
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vinayr00&show_icons=true&bg_color=0F0F0F&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&rank_icon=github&include_all_commits=true&count_private=true" alt="Vinay Raavi GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayr00&layout=compact&bg_color=0F0F0F&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=vinayr00&show_icons=true&bg_color=0F0F0F&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&rank_icon=github&include_all_commits=true&count_private=true" alt="Vinay Raavi GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=vinayr00&layout=compact&bg_color=0F0F0F&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37" alt="Top Languages"/>
 </p>
 
 ---
