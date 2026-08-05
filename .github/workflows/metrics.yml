@@ -2,22 +2,24 @@ name: Generate GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight UTC
-  workflow_dispatch: {}
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
 
+permissions:
+  contents: write
+
 concurrency:
-  group: github-profile
+  group: github-metrics
   cancel-in-progress: true
 
 jobs:
   metrics:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    permissions:
-      contents: write
+
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -25,8 +27,9 @@ jobs:
       - name: Generate Isometric Contribution Calendar
         uses: lowlighter/metrics@latest
         with:
-          filename: isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          user: vinayr00
+          filename: isocalendar.svg
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -34,7 +37,8 @@ jobs:
       - name: Generate Overview Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories
+          user: vinayr00
+          filename: metrics.svg
+          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
