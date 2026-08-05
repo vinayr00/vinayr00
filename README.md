@@ -99,11 +99,11 @@ My expertise spans modern web architectures, deep learning model integration, co
 
 | Project | Description | Primary Stack | Repository |
 | :--- | :--- | :--- | :---: |
-| 🏥 **Smart Attend** | AI-powered attendance management using facial recognition | Python, OpenCV, Flask | [View Code](https://github.com/vinayr00) |
-| 📏 **InfantMeter** | Computer vision solution for non-invasive infant measurement | Python, OpenCV, NumPy | [View Code](https://github.com/vinayr00) |
-| 🍽️ **Foodie Delight** | Responsive restaurant reservation and menu platform | React, JavaScript, CSS | [View Code](https://github.com/vinayr00) |
-| 🖼️ **Festive Moments** | Interactive multimedia event gallery web application | JavaScript, HTML5, CSS3 | [View Code](https://github.com/vinayr00) |
-| 📄 **CareerMatch Pro** | AI resume analysis and job matching frontend interface | React, Vite, Tailwind | [View Code](https://github.com/vinayr00) |
+| 📏 **INFANTMETER** | Computer vision solution for non-invasive infant height measurement | Python, OpenCV, NumPy | [View Repository](https://github.com/vinayr00/INFANTMETER) |
+| 🍽️ **FOODIE-DELIGHT** | Responsive restaurant reservation and culinary platform | HTML, CSS, JavaScript | [View Repository](https://github.com/vinayr00/FOODIE-DELIGHT) |
+| 🧠 **DTEO** | Decision Tree Optimization & Explainability Framework | Python, Scikit-Learn | [View Repository](https://github.com/vinayr00/DTEO) |
+| 🌐 **hanrao-prime-portal** | Enterprise portal web application | TypeScript, React, Supabase | [View Repository](https://github.com/vinayr00/hanrao-prime-portal) |
+| 💻 **code-alpha** | Web development showcase tasks & components | HTML, CSS, JavaScript | [View Repository](https://github.com/vinayr00/code-alpha) |
 
 ---
 
