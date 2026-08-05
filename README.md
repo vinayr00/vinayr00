@@ -131,4 +131,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:1a1a1a&height=120&section=footer" alt="Footer banner" />
 </p>
 
-<!-- Proudly enhanced with Claude -->
+
