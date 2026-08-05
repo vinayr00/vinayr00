@@ -70,28 +70,28 @@ My expertise spans modern web architectures, deep learning model integration, co
 # 🚀 Featured Projects
 
 ### 🛒 [GroNest](https://github.com/vinayr00/GroNest)
-- **Short Description**: A modern, full-stack online grocery platform with real-time stock processing, responsive storefront UI, and authentication.
-- **Technology Stack**: React, Node.js, Express, MongoDB, REST APIs, Tailwind CSS
-- **Purpose**: Solves regional grocery procurement by offering small suppliers a digital storefront with optimized inventory management.
 
-<p align="center">
-  <a href="https://github.com/vinayr00/GroNest">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin?username=vinayr00&repo=GroNest&bg_color=0F0F0F&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&show_owner=true" alt="GroNest Repository Card"/>
-  </a>
-</p>
+> **Smart Grocery & E-Commerce Platform**  
+> Solves regional grocery procurement by offering small suppliers a digital storefront with real-time inventory processing, order pipelines, and authentication.
+
+- 🛠️ **Technology Stack**:
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" alt="GroNest Tech Stack"/>
+- 🎯 **Purpose**: Digitalizes local supplier inventory, offering real-time stock processing and a smooth order tracking pipeline.
+- 🔗 **Repository**: [vinayr00/GroNest](https://github.com/vinayr00/GroNest)
 
 ---
 
 ### ⚖️ [FairExplainAI](https://github.com/vinayr00/FairExplainAI)
-- **Short Description**: An Explainable AI research platform extending IEEE standards to measure algorithmic bias and compute counterfactual explanations.
-- **Technology Stack**: Python, PyTorch, SHAP, DiCE, FairLearn, Scikit-learn
-- **Purpose**: Empowers machine learning practitioners to audit model decisions, ensure fairness, and visualize feature impacts in high-stakes domain models.
 
-<p align="center">
-  <a href="https://github.com/vinayr00/FairExplainAI">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/pin?username=vinayr00&repo=FairExplainAI&bg_color=0F0F0F&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&show_owner=true" alt="FairExplainAI Repository Card"/>
-  </a>
-</p>
+> **Explainable AI & Algorithmic Fairness Framework**  
+> Research platform extending IEEE standards to audit machine learning bias, execute 6-model benchmarking, and compute SHAP & DiCE counterfactual explanations.
+
+- 🛠️ **Technology Stack**:
+  <br>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,scikitlearn" alt="FairExplainAI Tech Stack"/>
+- 🎯 **Purpose**: Empowers machine learning practitioners to audit model decisions, ensure fairness, and visualize feature impacts in high-stakes domain models.
+- 🔗 **Repository**: [vinayr00/FairExplainAI](https://github.com/vinayr00/FairExplainAI)
 
 ---
 
@@ -154,13 +154,6 @@ My expertise spans modern web architectures, deep learning model integration, co
 ---
 
 # 📊 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=vinayr00&show_icons=true&bg_color=0F0F0F&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37&rank_icon=github&include_all_commits=true&count_private=true" alt="Vinay Raavi GitHub Stats"/>
-  <img height="170" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=vinayr00&layout=compact&bg_color=0F0F0F&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37" alt="Top Languages"/>
-</p>
-
----
 
 ### 📈 Activity Graph
 
