@@ -1,134 +1,574 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:D4AF37&height=200&section=header&text=Hi,%20I'm%20Vinay&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" alt="Header banner" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F0F0F,50:1A1A1A,100:D4AF37&text=Vinay%20Raavi&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Full-Stack%20Developer%20•%20AI%20Engineer%20•%20Open%20Source%20Enthusiast&descAlignY=60&descSize=18&animation=fadeIn"
+    alt="Header"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+AI-powered+full-stack+apps;React+%2B+Flask+%2F+Node.js;Exploring+Computer+Vision+%26+ML+Pipelines;Always+optimizing%2C+never+settling" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=D4AF37&center=true&vCenter=true&width=750&lines=Building+Scalable+Full-Stack+Applications;Engineering+AI-Powered+Solutions;React+•+Node.js+•+Python+•+AWS;Computer+Vision+•+Machine+Learning+•+Cloud;Learning+Something+New+Every+Day"/>
+
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vinayr00&label=Profile%20Views&color=D4AF37&style=flat" alt="Profile views" />
-</p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a1a,100:D4AF37&height=4&section=header" width="100%"/></p>
+<a href="https://github.com/vinayr00">
+<img src="https://img.shields.io/github/followers/vinayr00?style=for-the-badge&logo=github&label=Followers&color=D4AF37"/>
 
-### 💫 About Me
+</a>
 
-- 🔭 **Currently working on** — AI-powered full-stack web applications using React, Flask/Node.js, and scalable databases, along with computer vision–based projects and REST API development
-- 👯 **Looking to collaborate on** — Full-stack web projects, AI/ML applications, open-source contributions, and real-world problem-solving products
-- 🤝 **Looking for help with** — Advanced system design, model deployment, cloud integration (AWS), and optimizing ML models for production
-- 🌱 **Currently learning** — ML pipelines, deep learning, backend optimization, cloud computing (AWS), and scalable application architecture
-- 💬 **Ask me about** — Python, Full-Stack Development, React, Flask, REST APIs, ML basics, DBMS, and Git/GitHub workflows
-- ⚡ **Fun fact** — I enjoy turning complex problems into simple, efficient code — I never stop optimizing once it works
+<a href="https://github.com/vinayr00?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View-black?style=for-the-badge&logo=github"/>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a1a,100:D4AF37&height=4&section=header" width="100%"/></p>
+</a>
 
-### 🚀 Featured Projects
+<a href="https://www.linkedin.com/in/vinay-raavi-b6a096290/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 
-<p align="center">
-  <a href="https://github.com/vinayr00/GroNest">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=vinayr00&repo=GroNest&theme=dark&hide_border=true" height="150"/>
-  </a>
-  <a href="https://github.com/vinayr00/FairExplainAI">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=vinayr00&repo=FairExplainAI&theme=dark&hide_border=true" height="150"/>
-  </a>
-</p>
+</a>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a1a,100:D4AF37&height=4&section=header" width="100%"/></p>
+<a href="mailto:vinayraavi25@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 
-### 🛠️ Tech Stack
+</a>
 
-**Languages**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frontend**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-**Backend**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-**Data / ML**
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-**Databases**
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Cloud, DevOps & Tools**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a1a,100:D4AF37&height=4&section=header" width="100%"/></p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=vinayr00&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" alt="GitHub stats"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vinayr00&theme=dark&hide_border=true&layout=compact" height="165" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=vinayr00&theme=dark&hide_border=true" alt="GitHub streak"/>
+
+<img src="https://komarev.com/ghpvc/?username=vinayr00&label=Profile%20Views&color=D4AF37&style=flat-square"/>
+
 </p>
+
+---
+
+# 👨‍💻 About Me
+
+I'm **Vinay Raavi**, a passionate **Full-Stack Developer** and **AI/ML Enthusiast** who enjoys building software that solves real-world problems.
+
+My primary focus is designing scalable applications, engineering intuitive user experiences, and integrating intelligent AI systems into modern web platforms.
+
+I believe software should be:
+
+- ⚡ Fast
+- 🎯 Purposeful
+- 🔒 Secure
+- 📈 Scalable
+- 💡 Simple to use
+
+---
+
+## 🚀 What I'm Working On
+
+- 🤖 AI-powered Full Stack Applications
+- 🌐 Modern React & Node.js Platforms
+- 🧠 Machine Learning Pipelines
+- 👁️ Computer Vision Solutions
+- ☁️ Cloud Deployment using AWS
+- 📊 REST APIs & Backend Engineering
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced System Design
+- Distributed Systems
+- AWS Cloud Services
+- Docker & DevOps
+- Deep Learning
+- Production-grade ML Deployment
+
+---
+
+## 💬 Ask Me About
+
+```text
+Python
+React
+JavaScript
+Node.js
+Express
+REST APIs
+MongoDB
+MySQL
+Git & GitHub
+Machine Learning
+Computer Vision
+Software Engineering
+```
+
+---
+
+## 🎯 Current Focus
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### 🚧 Building
+
+- 🛒 GroNest
+- ⚖️ FairExplainAI
+- ☁ AWS Projects
+- 🤖 AI Solutions
+
+</td>
+
+<td width="50%">
+
+### 🎓 Learning
+
+- AWS
+- Distributed Systems
+- Deep Learning
+- Scalable Architecture
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vinayr00&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies"/>
+
+<a href="https://github.com/vinayr00/GroNest">
+
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=vinayr00&repo=GroNest&theme=dark&hide_border=true"/>
+
+</a>
+
+<a href="https://github.com/vinayr00/FairExplainAI">
+
+<img src="https://github-stats-extended.vercel.app/api/pin/?username=vinayr00&repo=FairExplainAI&theme=dark&hide_border=true"/>
+
+</a>
+
 </p>
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a1a,100:D4AF37&height=4&section=header" width="100%"/></p>
+---
 
-### 📈 Contribution Activity
+## 🛒 GroNest
+
+> Smart Grocery Platform
+
+### Highlights
+
+- Modern Full Stack Architecture
+- Authentication
+- Responsive UI
+- REST APIs
+- Database Integration
+- Scalable Design
+
+---
+
+## ⚖️ FairExplainAI
+
+> Explainable AI Research Project
+
+### Highlights
+
+- IEEE Research Extension
+- Fairness Evaluation
+- SHAP Explainability
+- DiCE Counterfactuals
+- FairLearn Integration
+- Bias Detection Pipeline
+
+---
+
+## 💡 More Projects
+
+| Project | Description |
+|---------|-------------|
+| 🏥 Smart Attend | AI-powered Attendance Management System |
+| 📏 InfantMeter | Computer Vision based Infant Height Measurement |
+| 🍽️ Foodie Delight | Responsive Restaurant Website |
+| 🖼️ Festive Moments Gallery | Interactive Gallery Website |
+| 📄 CareerMatch Pro | Resume Analysis UI |
+
+---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vinayr00/vinayr00/main/isocalendar.svg" alt="Isometric contribution calendar" />
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F0F0F,100:D4AF37&height=5&section=header"/>
+
 </p>
 
-<!--
-  ↑ Isometric 3D contribution calendar, powered by lowlighter/metrics (16.9k★, actively maintained)
-  Needs the metrics-isocalendar.yml GitHub Actions workflow — see setup steps below.
-  This replaces the earlier yoshi389111 3D action, which relies on a fragile custom branch-push
-  step that's a common source of silent failures. This version is simpler and more reliable.
--->
+# 🛠️ Tech Stack
+
+<div align="center">
+
+## 💻 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,php,html,css"/>
+
+</p>
+
+---
+
+## 🎨 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap"/>
+
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
+
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite"/>
+
+</p>
+
+---
+
+## 🤖 AI / Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+</p>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github"/>
+
+</p>
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vinayr00/vinayr00/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vinayr00&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayr00&layout=compact&theme=github_dark&hide_border=true"/>
+
 </p>
 
-<!--
-  ↑ Snake: animates your contribution graph, eats your own commit squares 🐍
-  Needs the snake.yml GitHub Actions workflow.
-  Consider keeping only ONE of isocalendar / snake for a cleaner profile — both together can feel busy.
--->
-
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a1a,100:D4AF37&height=4&section=header" width="100%"/></p>
-
-### 🌐 Connect With Me
+---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vinay-raavi-b6a096290/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/vinay__raavi/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
-  <a href="mailto:vinayraavi25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+
+<img src="https://streak-stats.demolab.com?user=vinayr00&theme=github-dark-blue&hide_border=true"/>
+
 </p>
+
+---
+
+# 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:1a1a1a&height=120&section=footer" alt="Footer banner" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=vinayr00&theme=algolia&margin-w=12&margin-h=12&column=4&no-frame=true"/>
+
 </p>
 
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vinayr00&theme=github-compact&hide_border=true"/>
+
+</p>
+
+---
+
+# 📌 GitHub Overview
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vinayr00&theme=github_dark"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vinayr00&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vinayr00&theme=github_dark"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinayr00&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vinayr00&theme=github_dark&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# 📊 Development Dashboard
+
+<table>
+
+<tr>
+
+<td align="center">
+
+### 🚀 Focus
+
+```text
+Full Stack Development
+█████████████░ 95%
+```
+
+</td>
+
+<td align="center">
+
+### 🤖 AI / ML
+
+```text
+Machine Learning
+███████████░░ 85%
+```
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### ☁️ Cloud
+
+```text
+AWS & DevOps
+████████░░░░ 70%
+```
+
+</td>
+
+<td align="center">
+
+### 📚 Learning
+
+```text
+Daily Progress
+████████████ 100%
+```
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0F0F0F,100:D4AF37&height=5&section=header"/>
+
+</p>
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/vinayr00/vinayr00/main/isocalendar.svg" width="95%" alt="Isometric Contribution Calendar"/>
+
+</p>
+
+> 📌 Generated automatically using **GitHub Metrics** via GitHub Actions.
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/vinayr00/vinayr00/output/github-contribution-grid-snake.svg" width="95%" alt="Contribution Snake"/>
+
+</p>
+
+---
+
+# 🏅 Highlights
+
+<div align="center">
+
+| 🚀 Development | 🤖 AI |
+|:--------------:|:-----:|
+| Full Stack Development | Machine Learning |
+| REST APIs | Explainable AI |
+| React Ecosystem | Computer Vision |
+| Node.js Backend | SHAP & DiCE |
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Build impactful AI-powered applications
+- 🚀 Contribute more to Open Source
+- ☁️ Become AWS Certified
+- 📚 Master System Design
+- 🤖 Deploy production-ready ML models
+- 🌍 Build software used by thousands
+
+---
+
+# 💼 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/">
+
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+
+</a>
+
+<a href="https://www.hackerrank.com/">
+
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+
+</a>
+
+<a href="https://www.codechef.com/">
+
+<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+
+</a>
+
+</p>
+
+> Replace these links with your own profile URLs.
+
+---
+
+# 📚 Currently Exploring
+
+<div align="center">
+
+| Area | Status |
+|------|--------|
+| ☁ AWS Cloud | 🟡 Learning |
+| 🧠 Deep Learning | 🟡 Learning |
+| 🏗️ System Design | 🟢 Active |
+| ⚙️ Backend Engineering | 🟢 Active |
+| 🤖 AI Engineering | 🟢 Active |
+| 🚀 DevOps | 🟡 Learning |
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/vinay-raavi-b6a096290/">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="mailto:vinayraavi25@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/vinayr00">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="https://www.instagram.com/vinay__raavi/">
+
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+# 💭 Favorite Quote
+
+<p align="center">
+
+> **"First, solve the problem. Then, write the code."**  
+> — *John Johnson*
+
+</p>
+
+---
+
+# ⭐ Thanks for Visiting
+
+<p align="center">
+
+If you like my work, consider giving a ⭐ to my repositories.
+
+I'm always open to collaborating on exciting projects involving
+
+**AI • Full Stack Development • Cloud • Open Source**
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:D4AF37,100:0F0F0F&section=footer"/>
+
+</p>
 
